@@ -1,7 +1,7 @@
 
 # 📈 Rental Forecasting Project
 
-This project demonstrates the process of cleaning, transforming, and forecasting commercial rental prices using Python. It is designed as a portfolio-ready project to simulate real-world tasks relevant to roles like **Senior Data Analyst** at Fitch Solutions.
+This project demonstrates the process of cleaning, transforming, and forecasting commercial rental prices using Python. It is designed as a portfolio-ready project to simulate real-world tasks.
 
 ---
 
